@@ -6,7 +6,7 @@
 
 ## 💡 Features
 
-- 🧠 **Emotionally Intelligent AI** – Uses Gemini Pro to respond with compassion and memory of past conversations
+- 🧠 **Emotionally Intelligent AI** – Uses Gemini Experimental model respond with compassion and memory of past conversations
 - 📱 **WhatsApp Integration** – Seamlessly interact via WhatsApp using Twilio
 - 🗣 **Voice Support** – Receive responses via automated voice calls (Twilio Voice)
 - ⚠️ **Risk Classification** – Automatically classifies messages as low, medium, or high emotional risk
